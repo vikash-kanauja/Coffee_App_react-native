@@ -11,7 +11,7 @@ import FontAwesome5 from 'react-native-vector-icons/FontAwesome5'
 const Tab = createBottomTabNavigator();
 
 const BottomTabNavigator = () => (
-  <Tab.Navigator >
+  <Tab.Navigator>
     <Tab.Screen
       name="HOME"
       component={Home}

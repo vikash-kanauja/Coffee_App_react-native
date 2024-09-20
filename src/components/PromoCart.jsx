@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
   promoContainer: {
     width: '100%',
     height: 170,
-    backgroundColor: 'yellow',
+    // backgroundColor: 'yellow',
     borderRadius:15,
     overflow:"hidden"
     // paddingHorizontal:20
