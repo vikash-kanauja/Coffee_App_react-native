@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "title": "Espresso",
+      "description": "Strong",
+      "image": "Image.png",
+      "price": "$3.00"
+    },
+    {
+      "id": 2,
+      "title": "Cappuccino",
+      "description": "Foamy",
+      "image": "Image1.png",
+      "price": "$4.50"
+    },
+    {
+      "id": 3,
+      "title": "Latte",
+      "description": "Creamy",
+      "image": "Image2.png",
+      "price": "$5.00"
+    },
+    {
+      "id": 4,
+      "title": "Macchiato",
+      "description": "Rich",
+      "image": "Image3.png",
+      "price": "$4.75"
+    },
+    {
+      "id": 5,
+      "title": "Mocha",
+      "description": "Chocolaty",
+      "image": "Image4.png",
+      "price": "$5.25"
+    },
+    {
+      "id": 6,
+      "title": "Flat White",
+      "description": "Smooth",
+      "image": "Image1.png",
+      "price": "$4.00"
+    },
+    {
+      "id": 7,
+      "title": "Americano",
+      "description": "Bold",
+      "image": "Image2.png",
+      "price": "$3.50"
+    },
+    {
+      "id": 8,
+      "title": "Affogato",
+      "description": "Decadent",
+      "image": "Image3.png",
+      "price": "$6.00"
+    },
+    {
+      "id": 9,
+      "title": "Cortado",
+      "description": "Balanced",
+      "image": "Image4.png",
+      "price": "$4.20"
+    },
+    {
+      "id": 10,
+      "title": "Irish Coffee",
+      "description": "Spirited",
+      "image": "Image1.png",
+      "price": "$6.50"
+    },
+    {
+      "id": 11,
+      "title": "Iced Coffee",
+      "description": "Refreshing",
+      "image": "Image2.png",
+      "price": "$3.75"
+    },
+    {
+      "id": 12,
+      "title": "Cold Brew",
+      "description": "Chilled",
+      "image": "Image3.png",
+      "price": "$4.00"
+    },
+    {
+      "id": 13,
+      "title": "Nitro Brew",
+      "description": "Smooth",
+      "image": "Image4.png",
+      "price": "$4.50"
+    },
+    {
+      "id": 14,
+      "title": "Frappe",
+      "description": "Frosty",
+      "image": "Image1.png",
+      "price": "$5.00"
+    },
+    {
+      "id": 15,
+      "title": "Turkish Coffee",
+      "description": "Rich",
+      "image": "Image2.png",
+      "price": "$4.25"
+    },
+    {
+      "id": 16,
+      "title": "Ristretto",
+      "description": "Intense",
+      "image": "Image3.png",
+      "price": "$3.25"
+    },
+    {
+      "id": 17,
+      "title": "Doppio",
+      "description": "Strong",
+      "image": "Image4.png",
+      "price": "$3.75"
+    },
+    {
+      "id": 18,
+      "title": "Cafe au Lait",
+      "description": "Mellow",
+      "image": "Image1.png",
+      "price": "$4.00"
+    },
+    {
+      "id": 19,
+      "title": "Vienna Coffee",
+      "description": "Creamy",
+      "image": "Image2.png",
+      "price": "$5.50"
+    },
+    {
+      "id": 20,
+      "title": "Caramel Macchiato",
+      "description": "Sweet",
+      "image": "Image3.png",
+      "price": "$5.75"
+    }
+  ]
+  
